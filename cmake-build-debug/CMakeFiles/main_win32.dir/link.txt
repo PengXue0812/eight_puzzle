@@ -1,0 +1,3 @@
+"D:\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\main_win32.dir/objects.a
+D:\Environment\TDM_GCC\bin\ar.exe qc CMakeFiles\main_win32.dir/objects.a @CMakeFiles\main_win32.dir\objects1.rsp
+D:\Environment\TDM_GCC\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\main_win32.dir/objects.a -Wl,--no-whole-archive -o main_win32.exe -Wl,--out-implib,libmain_win32.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\main_win32.dir\linklibs.rsp

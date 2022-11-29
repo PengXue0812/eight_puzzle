@@ -1,0 +1,4 @@
+"D:\JetBrains\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Environment/TDM_GCC/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/Environment/TDM_GCC/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Environment/TDM_GCC/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" -S D:\WorkSpace\Clion\AI\eight_puzzle -B D:\WorkSpace\Clion\AI\eight_puzzle\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/WorkSpace/Clion/AI/eight_puzzle/cmake-build-debug
